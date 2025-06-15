@@ -9,3 +9,8 @@ generates heart images as you move you cursor around.
 gives a writing effect to your text.
 
 ![auto-text-effect-animation](Auto-Text-Effect-Animation/auto-text-effect-animation.png)
+
+### 3. 📅 Mini Calendar
+a simple calender, tell current month, day, date, and year.
+
+![mini-calendar](Mini-Calender/mini-calender.png)
