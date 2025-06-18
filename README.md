@@ -13,7 +13,7 @@ gives a writing effect to your text.
 ### 3. ✨ Button-Ripple-Effect
 this gives your button a ripple effect when hovered from any side.
 
-![button-ripple-effect](Button-Ripple-Effect/button-ripple-effect.png)
+![button-ripple-effect](Button-Ripple-Effect/button-ripple-effect.jpg)
 
 ### 4. 📅 Mini Calendar
 a simple calender, tell current month, day, date, and year.
