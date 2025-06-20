@@ -15,7 +15,14 @@ a simple calender, tell current month, day, date, and year.
 
 ![mini-calendar](Mini-Calender/mini-calender.png)
 
-### 4. ✨ Button-Ripple-Effect
+### 4. ✨ Button Ripple Effect
 this gives your button a ripple effect when hovered from any side.
 
-Note: there is some error while loading the image, although the image is the same folder.
+![button-ripple-effect](Button-Ripple-Effect/button-ripple-effect.jpg)
+
+Note: there is some error while loading the image, although the image is provided.
+
+### 5. 📷 Random Photos
+generates random photos (from lorem picsum), has a load more button to load more images.
+
+![random-photos](Random-Photos/random-photos.png)
