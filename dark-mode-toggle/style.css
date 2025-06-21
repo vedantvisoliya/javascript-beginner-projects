@@ -17,6 +17,7 @@ body {
     background-color: lightgrey;
     position: absolute;
     border-radius: 20px;
+    cursor: pointer;
 }
 
 .circle {
