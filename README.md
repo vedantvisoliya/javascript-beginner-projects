@@ -14,3 +14,6 @@ this gives your button a ripple effect when hovered from any side.
 
 ### 5. 📷 Random Photos
 generates random photos (from lorem picsum), has a load more button to load more images.
+
+### 6. 🌑 Dark Mode Toggle
+its a simple dark mode toggle, which retain its state using local storage.
