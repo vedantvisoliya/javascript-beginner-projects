@@ -17,3 +17,6 @@ generates random photos (from lorem picsum), has a load more button to load more
 
 ### 6. 🌑 Dark Mode Toggle
 its a simple dark mode toggle, which retain its state using local storage.
+
+### 7. 🌟 Testimonial Slider
+simple testimonial slider which updates itself after 7 seconds.
