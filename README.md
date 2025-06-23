@@ -22,4 +22,4 @@ its a simple dark mode toggle, which retain its state using local storage.
 simple testimonial slider which updates itself after 7 seconds.
 
 ### 8. 🔢 Real Time Character Counter
-displays the total counter and remaining counter.
+displays the total charaters and remaining characters.
