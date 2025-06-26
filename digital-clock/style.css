@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+    background: url("https://wallpapers.com/images/hd/rent-a-girlfriend-ladies-jbn7lnf0xa2q28ki.jpg");
+    background-size: cover;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: black;
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.clock {
+    display: flex;
+}
+
+.clock div{
+    margin: 5px;
+    position: relative;
+}
+
+.clock span{
+    background-color: slateblue;
+    width: 100px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.clock .text{
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    height: 30px;
+    background-color: darkblue;
+    opacity: 0.8;
+}
+
+.clock #ampm{
+    position: absolute;
+    bottom: 0px;
+    height: 30px;
+    width: 60px;
+    font-size: 20px;
+    background-color: green;
+}
+
