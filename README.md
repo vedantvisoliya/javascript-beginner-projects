@@ -23,3 +23,6 @@ simple testimonial slider which updates itself after 7 seconds.
 
 ### 8. 🔢 Real Time Character Counter
 displays the total charaters and remaining characters.
+
+### 9. ⌚ Digital Clock
+displays time using the Date().
