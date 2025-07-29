@@ -60,4 +60,4 @@ displays time using the Date().
 
 display random emojis when hovered on it.
 
-[live-demi](https://randomemmojis.netlify.app/)
+[live-demo](https://randomemmojis.netlify.app/)
