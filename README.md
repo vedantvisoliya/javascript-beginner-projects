@@ -68,4 +68,10 @@ change the background of the website by clicking on the buttons.
 
 [live-demo](https://interchangeablewebsitebgcolors.netlify.app/)
 
+### 12. 📃 Feedback Page
+
+give the feeback by selecting the emojis.
+
+[live-demo](https://feedbackpagerating.netlify.app/)
+
 ---
