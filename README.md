@@ -74,4 +74,10 @@ give the feeback by selecting the emojis.
 
 [live-demo](https://feedbackpagerating.netlify.app/)
 
+### 13. 🅰️ KeyCode
+
+gives the key name, key code on pressing the key
+
+[live-demo](https://keycodedisplayer.netlify.app/)
+
 ---
